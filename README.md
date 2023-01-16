@@ -2,8 +2,6 @@
 
 ## <a id="features"></a>🌌 〢 Features
 
-> Some of these features are not available in the public version.
-
 **Aimbot**
 ```sh-session
 - Silent
