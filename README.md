@@ -1,4 +1,4 @@
-# Valorant Cheat ESP
+# Valorant Wireframe ESP Hack
 
 ## <a id="features"></a>🌌 〢 Features
 
