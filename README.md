@@ -2,20 +2,6 @@
 
 ## <a id="features"></a>🌌 〢 Features
 
-
-**Aimbot**
-```sh-session
-- Silent
-- Unsilent
-- Smooth
-- FOV Circle
-- Custom Circle Size
-- Custom Accuracy 
-- Custom Smoothness
-- Trigger Keys
-- No Recoil
-```
-
 **ESP**
 ```sh-session
 - Boxes
@@ -26,12 +12,6 @@
 - Glow
 - Custom Glow Intensity
 - Filter Targets
-```
-
-**Others**
-```sh-session
-- Spinbot
-- Custom Spinbot Speed
 ```
 ---
 
@@ -54,6 +34,6 @@ Read everything carefully before you click anything.
 - Windows 10 (any)
 - Windows 11 (any)
 - Any GPU
-- Not compatible with Logitech mice
+- Last version of Windows Update
 
 ---
