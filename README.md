@@ -2,7 +2,6 @@
 
 ## <a id="features"></a>🌌 〢 Features
 
-**ESP**
 ```sh-session
 - Boxes
 - Tracers
